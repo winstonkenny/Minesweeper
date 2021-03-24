@@ -1,4 +1,4 @@
-package com.kenny;
+package cn.winstonkenny;
 /**
  * 雷区类
  */

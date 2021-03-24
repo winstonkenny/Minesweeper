@@ -1,4 +1,4 @@
-package com.kenny;
+package cn.winstonkenny;
 import java.awt.event.*;
 import java.awt.*;
 import javax.swing.*;
