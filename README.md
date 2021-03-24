@@ -1,2 +1,2 @@
 # Minesweeper
-Game Minesweeper for class in Java
+Game Minesweeper in Java
